@@ -1,5 +1,4 @@
 *.tr0
-*.pdf
 *.png
 *.docx
 *.doc
@@ -11,6 +10,5 @@
 *.pm
 .DS_Store
 *.pa0
-*.txt
 *.rar
 *.zip
